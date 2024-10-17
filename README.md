@@ -14,7 +14,7 @@ This repository provides a setup for controlling turtlebot with Docker
 
 ## Features
 
-- Docker: Customized image from humble-ros-base(https://hub.docker.com/layers/library/ros/humble-ros-base-jammy/images/sha256-5b530b78b01b3429d086b49a776dc4f5e6240677122d723b8211e6b46d73c471) image for controlling turtlebot.
+- Docker: Customized image from [humble-ros-base] (https://hub.docker.com/layers/library/ros/humble-ros-base-jammy/images/sha256-5b530b78b01b3429d086b49a776dc4f5e6240677122d723b8211e6b46d73c471) image for controlling turtlebot.
 - Volume Mounting: Copy source from local workspace into the Docker container.
 - **GUI turtlesim**: I was tired of fixing compatibility issues with monitor and Docker, so I decided to use simulation turtlebot on my local machine instead.
 
