@@ -21,4 +21,4 @@ This repository provides a setup for controlling turtlebot with Docker
 
 ## Prerequisites
 - [Docker 24.0.5](https://www.docker.com/get-started) + [Docker Compose v2.20.3](https://docs.docker.com/compose/install/)
-- [ROS2 Humble] (https://docs.ros.org/en/humble/Installation.html).
+- [ROS2 Humble](https://docs.ros.org/en/humble/Installation.html).
