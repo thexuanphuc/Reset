@@ -1,5 +1,0 @@
-[console_scripts]
-client = robot_planner.client:main
-planner_sv2 = robot_planner.planner_sv2:main
-server = robot_planner.server:main
-

@@ -1,6 +1,0 @@
-{
-  "package_name": "rbpler_interfaces",
-  "non_idl_tuples": [
-    "/home/phuc/working/reset_entry/ws_2/src/rbpler_interfaces:srv/SetString.srv"
-  ]
-}
